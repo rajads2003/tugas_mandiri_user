@@ -57,7 +57,7 @@ class NavBar extends StatelessWidget {
           ),
           ListTile(
             leading: Icon(Icons.notifications),
-            title: Text('Request'),
+            title: Text('Notification'),
           ),
           Divider(),
           ListTile(
